@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Mi-kmaq-Language-Learning-App/static/css/main.04d5487d.css",
-    "main.js": "/Mi-kmaq-Language-Learning-App/static/js/main.16b4ac97.js",
+    "main.css": "/Mi-kmaq-Language-Learning-App/static/css/main.1ab5d49d.css",
+    "main.js": "/Mi-kmaq-Language-Learning-App/static/js/main.96b4660e.js",
     "static/js/453.b9eb59b8.chunk.js": "/Mi-kmaq-Language-Learning-App/static/js/453.b9eb59b8.chunk.js",
     "static/media/Background.png": "/Mi-kmaq-Language-Learning-App/static/media/Background.3cc52acf86835ee309db.png",
     "static/media/kesalul.png": "/Mi-kmaq-Language-Learning-App/static/media/kesalul.6fbcf50c65bee0d4f81c.png",
@@ -51,12 +51,12 @@
     "static/media/ta'ta.mp3": "/Mi-kmaq-Language-Learning-App/static/media/ta'ta.60b4c9390de24673aab5.mp3",
     "static/media/DictionaryImage.png": "/Mi-kmaq-Language-Learning-App/static/media/DictionaryImage.de5bedc176ee8ca5c935.png",
     "index.html": "/Mi-kmaq-Language-Learning-App/index.html",
-    "main.04d5487d.css.map": "/Mi-kmaq-Language-Learning-App/static/css/main.04d5487d.css.map",
-    "main.16b4ac97.js.map": "/Mi-kmaq-Language-Learning-App/static/js/main.16b4ac97.js.map",
+    "main.1ab5d49d.css.map": "/Mi-kmaq-Language-Learning-App/static/css/main.1ab5d49d.css.map",
+    "main.96b4660e.js.map": "/Mi-kmaq-Language-Learning-App/static/js/main.96b4660e.js.map",
     "453.b9eb59b8.chunk.js.map": "/Mi-kmaq-Language-Learning-App/static/js/453.b9eb59b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.04d5487d.css",
-    "static/js/main.16b4ac97.js"
+    "static/css/main.1ab5d49d.css",
+    "static/js/main.96b4660e.js"
   ]
 }
